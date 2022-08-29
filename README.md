@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimothyBabatu13
-- 👀 I’m interested in app development using flutter
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning flutter
 - 📫 You can reach me on Twitter: @TimothyBabatu13
 
