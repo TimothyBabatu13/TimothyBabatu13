@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Timothy Babatunde Akanbi</h1>
 <h3 align="center">A passionate software engineer pushing and pulling my life together</h3>
 
-- 🌱 **WEB 2.0, WEB3.0**
+- 🌱 I’m currently learning Native Android Development & Fullstack Development.
 
+- 👯 I’m looking to collaborate on Projects.
 - 📫 How to reach me **knbtimothy@gmail.com**
 
 - ⚡ Fun fact **I am who I think I am**
